@@ -27,4 +27,4 @@ This repository contains a collection of eZintegrations automation templates sou
 
 
 ## Sponsors
-@bizdata2020
+[Bizdata Inc](https://www.bizdata360.com/)
