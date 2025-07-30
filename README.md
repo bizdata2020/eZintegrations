@@ -18,7 +18,7 @@ This repository contains a collection of eZintegrations automation templates sou
 - [X] Any Protocols : HTTPS ( REST API, SOAP API, GraphQL API), Webhook, Websocket, TCP, SMTP
 - [X] Databases : Oracle, SAP, Teradata, MySQL, MSSQL and more...
 
-# Why eZintegration Templates
+## Why eZintegration Templates
 
 - [X] Faster time to automation. Do integration in days and not weeks and months. Enterprises never did integrations in days and weeks. It was always in months
 - [X] See what's possible. Most Enterprise users struggle to identify as what to automate and make their business process easy.
