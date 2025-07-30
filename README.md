@@ -22,8 +22,8 @@ This repository contains a collection of eZintegrations automation templates sou
 
 - [X] Faster time to automation. Do integration in days and not weeks and months. Enterprises never did integrations in days and weeks. It was always in months
 - [X] See what's possible. Most Enterprise users struggle to identify as what to automate and make their business process easy.
-- [X] If Budget is a contraint for Enterprise team, eZintegrations platform solve this. Teams can start as low as $20/month with a Single Integration Service
-- [X] These eZintegrations templates makes Consulting cost almost negligible. Unlike other Enteprise Team heavily in Consulting for development, configuration, workshops and UAT
+- [X] If Budget is a contraint for Enterprise team, eZintegrations platform solve this. Teams can start as low as $20/month with a Single Integration Service with unlimited data streaming
+- [X] These eZintegrations templates makes Consulting cost almost negligible. Unlike other Enteprise Teams heavily invest in Consulting for development, configuration, workshops and UAT
 
 
 ## Sponsors
