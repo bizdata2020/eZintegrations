@@ -1,4 +1,20 @@
 <p align="center">
+  <a href="https://x.com/bizdatainc">
+    <img src="https://img.shields.io/twitter/follow/bizdatainc?label=%40bizdatainc&style=flat-square&logo=x&logoColor=white" alt="Follow @bizdatainc on X">
+  </a>
+  <a href="https://www.linkedin.com/company/bizdata-inc/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bizdata%20Inc-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Follow Bizdata Inc on LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/bizdatainc">
+    <img src="https://img.shields.io/badge/-Follow%20Bizdata%20Inc-blue?style=flat-square&logo=facebook" alt="Follow us on Facebook">
+  </a>
+  <a href="https://www.pinterest.com/bizdata">
+    <img src="https://img.shields.io/badge/-Bizdata%20on%20Pinterest-red?style=flat-square&logo=pinterest" alt="Follow us on Pinterest">
+  </a>
+</p>
+
+
+<p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
   <a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=de">Deutsch</a> | 
   <a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=es">Español</a> | 
