@@ -1,3 +1,15 @@
+<p align="center">
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=de">Deutsch</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=es">Español</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=fr">français</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=ja">日本語</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=ko">한국어</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=pt">Português</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=ru">Русский</a> | 
+  <a href="https://github.com/bizdata2020/eZintegrations?lang=zh">中文</a>
+</p>
+
 # eZintegrations
 eZintegrations : Integration Templates for Enterprise Applications
 
