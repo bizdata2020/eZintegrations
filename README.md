@@ -172,7 +172,7 @@ This repository contains a collection of eZintegrations automation templates sou
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-| Oracle Fusion Products to Shopify | Transfer of product data from Oracle CX to Shopify, ensuring catalog accuracy and realtime inventory visibility. Product attributes like SKUs, descriptions, pricing, and stock levels are extracted from Oracle CX and formatted according to Shopify's GraphQL schema. Through GraphQL queries and mutations, the data is efficiently pushed to Shopify’s backend, allowing instant updates across the storefront. | eCommerce | [Link](https://github.com/bizdata2020/eZintegrations/blob/main/Oracle%2520fusion/Oracle%2520Fusion%2520Products%2520to%2520Shopify.ez) |
+| Oracle Fusion Products to Shopify | Transfer of product data from Oracle CX to Shopify, ensuring catalog accuracy and realtime inventory visibility. Product attributes like SKUs, descriptions, pricing, and stock levels are extracted from Oracle CX and formatted according to Shopify's GraphQL schema. Through GraphQL queries and mutations, the data is efficiently pushed to Shopify’s backend, allowing instant updates across the storefront. | eCommerce | [Link](https://github.com/bizdata2020/eZintegrations/blob/dbece96faf79431c6ba25eb9016c2e103e0e858f/Oracle%20fusion/Oracle%20Fusion%20Products%20to%20Shopify.ez) |
 
 -----
 
