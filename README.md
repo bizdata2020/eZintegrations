@@ -141,7 +141,7 @@ This repository contains a collection of eZintegrations automation templates sou
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-| Netsuite data to database | Transfers data from Oracle NetSuite into Oracle Database for reporting, analysis, or archival needs. It ensures critical business data from NetSuite is centralized and accessible for downstream applications, enabling better decision making and data management. | ERP | [Link](https://github.com/bizdata2020/eZintegrations/blob/main/Netsuite/Netsuite%2520data%2520to%2520database.ez) |
+| Netsuite data to database | Transfers data from Oracle NetSuite into Oracle Database for reporting, analysis, or archival needs. It ensures critical business data from NetSuite is centralized and accessible for downstream applications, enabling better decision making and data management. | ERP | [Link](https://github.com/bizdata2020/eZintegrations/blob/b6e12dde1372154de59781ad4d625908b0244ea4/Netsuite/Netsuite%20data%20to%20database.ez) |
 
 -----
 
