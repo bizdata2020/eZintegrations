@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://www.bizdata360.com/">
+    <img src="https://www.bizdata360.com/wp-content/uploads/2024/07/BIZDATA_log_new.png" width="200px" alt="Bizdata Inc">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://x.com/bizdatainc">
     <img src="https://img.shields.io/twitter/follow/bizdatainc?label=%40bizdatainc&style=flat-square&logo=x&logoColor=white" alt="Follow @bizdatainc on X">
   </a>
@@ -27,8 +33,8 @@
 </p>
 
 
-# eZintegrations
-eZintegrations : Integration Templates for Enterprise Applications
+# eZintegrations™
+eZintegrations™ : Integration Templates for Enterprise Applications
 
 This repository contains a collection of eZintegrations automation templates sourced from various Enterprise Projects. These templates are designed to help automate a wide range of tasks and workflows using eZintegrations, making it easier for users to discover and use ready-made automations for various platforms and service
 
@@ -41,13 +47,13 @@ This repository contains a collection of eZintegrations automation templates sou
 - [X] Change the Credentials of Data Source and Data Target with your apps
 - [X] Schedule the frequency or Use Event Triggers and Start the Integration Bridge : **Hola ! you are Live**
 
-## What is Possible with eZintegrations?
+## 🌟 What is Possible with eZintegrations?
 
 - [X] Any Enterprise Applications Integrations : SaaS, On-Premises Apps, RDBMS database, Datawarehouse, NoSQL DBs, Vector Databases, Digital Marketing, Social and more
 - [X] Any Protocols : HTTPS ( REST API, SOAP API, GraphQL API), Webhook, Websocket, TCP, SMTP
 - [X] Databases : Oracle, SAP, Teradata, MySQL, MSSQL and more...
 
-## Why eZintegrations Templates?
+## 🤔 Why eZintegrations Templates?
 
 - [X] Faster time to automation. Do integration in days and not weeks and months. Enterprises never did integrations in days and weeks. It was always in months
 - [X] See what's possible. Most Enterprise users struggle to identify as what to automate and how to make their business process easy.
