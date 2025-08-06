@@ -1,3 +1,37 @@
+<p align="center">
+<a href="https://www.bizdata360.com/">
+<img src="https://www.bizdata360.com/wp-content/uploads/2024/07/BIZDATA_log_new.png" width="200px" alt="Bizdata Inc">
+</a>
+</p>
+ 
+<p align="center">
+<a href="https://x.com/bizdatainc">
+<img src="https://img.shields.io/twitter/follow/bizdatainc?label=%40bizdatainc&style=flat-square&logo=x&logoColor=white" alt="Follow @bizdatainc on X">
+</a>
+<a href="https://www.linkedin.com/company/bizdata-inc/">
+<img src="https://img.shields.io/badge/LinkedIn-Bizdata%20Inc-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Follow Bizdata Inc on LinkedIn">
+</a>
+<a href="https://www.facebook.com/bizdatainc">
+<img src="https://img.shields.io/badge/-Follow%20Bizdata%20Inc-blue?style=flat-square&logo=facebook" alt="Follow us on Facebook">
+</a>
+<a href="https://www.pinterest.com/bizdata">
+<img src="https://img.shields.io/badge/-Bizdata%20on%20Pinterest-red?style=flat-square&logo=pinterest" alt="Follow us on Pinterest">
+</a>
+</p>
+ 
+ 
+<p align="center">
+<!-- Keep these links. Translations will automatically update with the README. -->
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=de">Deutsch</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=es">Español</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=fr">français</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=ja">日本語</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=ko">한국어</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=pt">Português</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=ru">Русский</a> | 
+<a href="https://www.readme-i18n.com//bizdata2020/eZintegrations?lang=zh">中文</a>
+</p>
+
 # eZintegrations
 eZintegrations : Integration Templates for Enterprise Applications
 
