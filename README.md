@@ -122,8 +122,8 @@ This repository contains a collection of eZintegrations automation templates sou
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-| E-WayBill Generation and Routing | Migrates Eway bill data between internal databases to ensure regulatory compliance and maintain a clear audit trail. The data is processed for accuracy and traceability, supporting financial and legal reporting requirements. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/main/India%2520GST%2520Compliance_Tax%2520Automation/E-WayBill%2520Generation%2520and%2520Routing.ez) |
-| E-invoice Generation and Routing | Synchronizes eInvoicing records between databases to facilitate accurate financial reconciliation and ensure compliance with statutory reporting requirements. It processes invoice data to maintain consistency and support audit readiness. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/main/India%2520GST%2520Compliance_Tax%2520Automation/E-invoice%2520Generation%2520and%2520Routing.ez) |
+| E-WayBill Generation and Routing | Migrates Eway bill data between internal databases to ensure regulatory compliance and maintain a clear audit trail. The data is processed for accuracy and traceability, supporting financial and legal reporting requirements. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-WayBill%20Generation%20and%20Routing.ez) |
+| E-invoice Generation and Routing | Synchronizes eInvoicing records between databases to facilitate accurate financial reconciliation and ensure compliance with statutory reporting requirements. It processes invoice data to maintain consistency and support audit readiness. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-invoice%20Generation%20and%20Routing.ez) |
 
 -----
 
