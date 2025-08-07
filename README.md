@@ -118,12 +118,12 @@ Pharma Document Understanding using AI| Unstructured pharmaceutical data is extr
 
 -----
 
-#### India GST Compliance\_Tax Automation
+#### India GST Compliance/Tax Automation
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-| E-WayBill Generation and Routing | Migrates Eway bill data between internal databases to ensure regulatory compliance and maintain a clear audit trail. The data is processed for accuracy and traceability, supporting financial and legal reporting requirements. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-WayBill%20Generation%20and%20Routing.ez) |
-| E-invoice Generation and Routing | Synchronizes eInvoicing records between databases to facilitate accurate financial reconciliation and ensure compliance with statutory reporting requirements. It processes invoice data to maintain consistency and support audit readiness. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-invoice%20Generation%20and%20Routing.ez) |
+| E-Way Bill Generation and Routing |The E-Way Bill is generated after the invoice is approved and the Invoice Reference Number (IRN) is successfully fetched from the e-invoicing system. This IRN serves as a prerequisite for E-Way Bill creation. Based on the approved invoice, the  system automatically generates the E-Way Bill Number (EBN) along with its validity period and expiration time and send the Data to Database/ERP, ensuring compliance and traceability during the movement of goods| Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-WayBill%20Generation%20and%20Routing.ez) |
+| E-invoice Generation and Routing |Connects ERP systems, government portals (like IRP and E-Way Bill), and enterprise databases. It facilitates automated exchange and transformation of structured data such as invoice JSON from ERP and gets the invoice Approved with IRN, QR Code, Signature. The bridge ensures real-time synchronization, statutory compliance, and end-to-end visibility across financial and operational workflows. It is designed to handle high-volume transactions with validation, error handling, and audit logging. | Accounts Payable | [Link](https://github.com/bizdata2020/eZintegrations/blob/94b35e9c08897f0ed3fb8d220a56859ab9456c7a/India%20GST%20Compliance_Tax%20Automation/E-invoice%20Generation%20and%20Routing.ez) |
 
 -----
 
