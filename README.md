@@ -85,7 +85,7 @@ Pharma Document Understanding using AI| Unstructured pharmaceutical data is extr
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-| Acumatica Stockitems to Google Sheet | Exports stock item data from Acumatica ERP to Google Sheets, enabling easy tracking, sharing, and lightweight analysis of inventory information. It helps teams quickly access uptodate stock details without complex database queries. | ERP | [Link](https://github.com/bizdata2020/eZintegrations/blob/a4449d72ef7a3a929492bfd160dde860b2739c84/Acumatica/Acumatica%20Stockitems%20to%20Google%20Sheet.ez) |
+| Acumatica Stockitems to Google Sheet | Exports stock item data from Acumatica ERP to Google Sheets, enabling easy tracking, sharing, and lightweight analysis of inventory information. It helps teams quickly access upto date stock details without complex database queries.The service runs on a predefined schedule and updates the sheet automatically, eliminating the need for manual intervention | ERP | [Link](https://github.com/bizdata2020/eZintegrations/blob/a4449d72ef7a3a929492bfd160dde860b2739c84/Acumatica/Acumatica%20Stockitems%20to%20Google%20Sheet.ez) |
 
 -----
 
