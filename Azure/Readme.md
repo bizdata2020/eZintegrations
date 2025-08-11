@@ -7,4 +7,3 @@
 5. Navigate to the **Data Target** page and update the credentials based on the selected target.  
 6. **Save** the integration and verify that all configuration details have been updated correctly.  
 7. Click the **Play** ▶️ button to run the IB and **check the logs** for successful execution. 
-workspace_id
