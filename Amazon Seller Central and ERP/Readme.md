@@ -1,0 +1,11 @@
+# Deployment Steps for Amazon Seller Central and ERP Integration
+
+1. **Download** the Amazon Seller Central and ERP IB files.  
+2. **Sign up** or **log in** to the eZintegration environment: [sign up](https://system-na19-west.bizdata360.com/#/login) with your **Username** and **Password**.  
+3. After logging in, **import** the downloaded IB files into the environment using the **Import** button on the left corner.  
+4. In **Data Source**, navigate to the **Environment Settings** section and enter the following credentials: `amzdate`, `authorization_header`, `auth_url`,`base_url`,`client_secret`,`client_id`,`refresh_token`.  
+6. Add **Amazon access token** Credentials. 
+5. Navigate to the **Data Target** page and update the credentials based on the selected target.  
+6. **Save** the integration and verify that all configuration details have been updated correctly.  
+7. Click the **Play** ▶️ button to run the IB and **check the logs** for successful execution. 
+workspace_id
