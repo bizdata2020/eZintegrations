@@ -37,10 +37,10 @@ eZintegrations : Integration Templates for Enterprise Applications
 
 This repository contains a collection of eZintegrations automation templates sourced from various Enterprise Projects. These templates are designed to help automate a wide range of tasks and workflows using eZintegrations, making it easier for users to discover and use ready-made automations for various platforms and service
 
-[![Try Now](https://img.shields.io/badge/Try%20Now-Free%20Trial-blue?style=for-the-badge&logo=rocket)](https://system-na14-west.bizdata360.com/#/start-free-trial)
+[![Try Now](https://img.shields.io/badge/Try%20Now-Free%20Trial-blue?style=for-the-badge&logo=rocket)](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=readme_link)
 
 ## Integrate any Enterprise Apps in easy step
-- [X] Sign up with [eZintegrations](https://system-na14-west.bizdata360.com/#/start-free-trial)
+- [X] Sign up with [eZintegrations]([https://system-na14-west.bizdata360.com/#/start-free-trial](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=readme_link))
 - [X] Download any preferred automation template from this repository absolutely FREE!
 - [X] Import into eZintegrations App
 - [X] Change the Credentials of Data Source and Data Target with your apps
@@ -60,7 +60,7 @@ This repository contains a collection of eZintegrations automation templates sou
 - [X] These eZintegrations templates makes Consulting cost almost negligible. Unlike other Enterprise Teams heavily invest in Consulting for development, configuration, workshops and UAT. These templates makes breeze, go straight to testing and make it Live
 
 ### Documentation
-Documentation is available [here](https://help.bizdata360.com/books/ezintegrations)
+Documentation is available [here](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=documentation_readme_link)
  
 [![Docs](https://img.shields.io/badge/eZintegrations-Docs-green?style=flat-square)](https://help.bizdata360.com/books/ezintegrations)
 
@@ -68,7 +68,7 @@ Documentation is available [here](https://help.bizdata360.com/books/ezintegratio
 ### Q & A
 Have a question? Ask in our Community Forum
 
-[![Ask the Community](https://img.shields.io/badge/Ask%20the%20Community-blue?style=for-the-badge&logo=discourse)](https://community.bizdata360.com/)
+[![Ask the Community](https://img.shields.io/badge/Ask%20the%20Community-blue?style=for-the-badge&logo=discourse)](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=community_readme_link)
 
 
 
