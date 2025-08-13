@@ -2,7 +2,7 @@
 # Deployment Steps for Acumatica Integration
 
 1. **Download** the Acumatica IB files.  
-2. **Sign up** or **log in** to the eZintegration environment: [sign up](https://system-na19-west.bizdata360.com/#/login) with your **Username** and **Password**.  
+2. **Sign up** or **log in** to the eZintegration environment: [sign up](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=acumatica_readme_link) with your **Username** and **Password**.  
 3. After logging in, **import** the downloaded IB files into the environment using the **Import** button on the left corner.  
 4. In **Data Source**, navigate to the **Environment Settings** section and enter the following credentials: `domain_name`, `sheet_name`, `sheet_id`,`base_url`,`client_secret`,`client_id`,`refresh_token`. 
 5. Navigate to the **Data Target** page and update the credentials based on the selected target.  
