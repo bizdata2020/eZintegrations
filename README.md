@@ -39,6 +39,9 @@ This repository contains a collection of eZintegrations automation templates sou
 
 [![Try Now](https://img.shields.io/badge/Try%20Now-Free%20Trial-blue?style=for-the-badge&logo=rocket)](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=readme_link)
 
+<sub><em>Tip: Hold <kbd>Ctrl</kbd> (Windows/Linux) or <kbd>Cmd</kbd> (Mac) and click to open in a new tab.</em></sub>
+
+
 ## Integrate any Enterprise Apps in easy step
 - [X] Sign up with [eZintegrations]([https://system-na14-west.bizdata360.com/#/start-free-trial](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=readme_link))
 - [X] Download any preferred automation template from this repository absolutely FREE!
@@ -64,11 +67,15 @@ Documentation is available [here](https://system-na14-west.bizdata360.com/#/star
  
 [![Docs](https://img.shields.io/badge/eZintegrations-Docs-green?style=flat-square)](https://help.bizdata360.com/books/ezintegrations)
 
+<sub><em>Tip: Hold <kbd>Ctrl</kbd> (Windows/Linux) or <kbd>Cmd</kbd> (Mac) and click to open in a new tab.</em></sub>
+
 
 ### Q & A
 Have a question? Ask in our Community Forum
 
 [![Ask the Community](https://img.shields.io/badge/Ask%20the%20Community-blue?style=for-the-badge&logo=discourse)](https://system-na14-west.bizdata360.com/#/start-free-trial?utm_source=github&utm_medium=social&utm_campaign=readme&utm_content=community_readme_link)
+
+<sub><em>Tip: Hold <kbd>Ctrl</kbd> (Windows/Linux) or <kbd>Cmd</kbd> (Mac) and click to open in a new tab.</em></sub>
 
 
 
