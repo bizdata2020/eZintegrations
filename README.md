@@ -240,6 +240,13 @@ Pharma Document Understanding using AI| Unstructured pharmaceutical data is extr
 | ERP Item sync to Walmart | Items data synced from ERP to Microsoft SQL Server acting as Walmart. It ensures product details are consistently updated across systems for accurate listings and inventory management. | eCommerce | [Link](https://github.com/bizdata2020/eZintegrations/blob/535e37a3849b2adf05c864c088b001aa1032820c/Walmart/ERP%20Item%20sync%20to%20Walmart.ez) |
 | Walmart Inventory to ERP sync | Synchronizes inventory data from Walmart to Microsoft SQL Server acting as ERP, ensuring upto date stock levels and product availability are maintained in the database. The integration supports accurate inventory management, helps prevent stockouts or overselling, and enables operational teams to make informed decisions regarding replenishment and sales planning. | eCommerce | [Link](https://github.com/bizdata2020/eZintegrations/blob/535e37a3849b2adf05c864c088b001aa1032820c/Walmart/Walmart%20Inventory%20to%20ERP%20sync.ez) |
 
+-----
+
+#### Weaviate
+
+| Name | Description | Team | Link |
+|:---|:---|:---|:---|
+| AI Agent Workflow Automation with eZintegration and Weaviate | This integration bridge fetches articles via an API, converts the content into vector embeddings, and stores them in a Weaviate database for semantic search. When a question is asked, it uses the Weavaite Natural Language Model to generate fast, context-aware answers based on the stored data using AI operation. The final response is then sent to a designated email address, completing the automated knowledge delivery loop.| Database | [Link](https://github.com/bizdata2020/eZintegrations/blob/d1789443d744fe825db5a8bf2a99880a5859ddc1/Weaviate/AI%20Agent%20Workflow%20Automation%20with%20eZintegration%20and%20Weaviate.ez) |
 
 ## Sponsors
 [Bizdata Inc](https://www.bizdata360.com/)
