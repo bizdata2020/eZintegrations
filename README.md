@@ -164,7 +164,7 @@ Pharma Document Understanding using AI| Unstructured pharmaceutical data is extr
 
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
-|Extract top 10  founders in New York city | Fetch the top founders or CEOs from New York City using Google Search API, enriched individual information using AI for outreach and enriched data will be sent to google sheet.| Marketing / Sales | [Link](https://github.com/bizdata2020/eZintegrations/blob/bac75af28d4c85bbac531868060a08e561d5a63b/Leads%20Management/Extract%20top%2010%20%20founders%20in%20New%20York%20city.ez) |
+|Extract top 10  founders in New York city | Fetch the top founders or CEOs from New York City using Google Search API, enriched individual information using AI for outreach and enriched data will be sent to google sheet.| Marketing / Sales | [Link](https://github.com/bizdata2020/eZintegrations/releases/download/leadsmanagementv1.0/Extract.top.10.founders.in.New.York.city.ez) |
 
 -----
 
