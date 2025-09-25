@@ -164,6 +164,9 @@ Pharma Document Understanding using AI| Unstructured pharmaceutical data is extr
 | Name | Description | Team | Link |
 |:---|:---|:---|:---|
 |Extract top 10  founders in New York city | Fetch the top founders or CEOs from New York City using Google Search API, enriched individual information using AI for outreach and enriched data will be sent to google sheet.| Marketing / Sales | [Link](https://github.com/bizdata2020/eZintegrations/releases/download/leadsmanagementv1.0/Extract.top.10.founders.in.New.York.city.ez) |
+| Name | Description | Team | Link |
+|:---|:---|:---|:---|
+|Job Signal to Outreach Automation using AI | This integration bridge automates the end-to-end flow of job intelligence for targeted outreach. It starts by scanning job signals from the Indeed platform using Apify Actor, capturing relevant job postings and details. The extracted data is then enriched through the Google Search Engine (GSE) to identify the company’s domain, verify the organization, and pull additional company-level insights.Once company information is secured, the data flows through an AI that personalizes details at an individual level and applies ICP (Ideal Customer Profile) scoring to qualify the lead. Finally, the enriched and scored data is seamlessly delivered to Instantly (or your preferred outbound platform) for highly tailored cold email campaigns.| Marketing / Sales | [Link(https://github.com/bizdata2020/eZintegrations/blob/acb3b3240ddb5a2054d272cfed48249f4edf87a2/Leads%20Management/Job%20Signal%20to%20Outreach%20Automation%20using%20AI.ez) |
 
 -----
 
