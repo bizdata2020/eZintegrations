@@ -1,0 +1,22 @@
+Copyright (c) 2025 Bizdata Inc. All rights reserved.
+
+This software (“Integration Bridge” or “.eZ file”) is proprietary to Bizdata Inc.
+and is provided solely for use with the Bizdata eZintegrations SaaS platform.
+
+Permission is granted to download and use this software for the purpose of
+connecting to or integrating with the eZintegrations platform, subject to the
+following restrictions:
+
+- You may not modify, decompile, disassemble, reverse-engineer, or otherwise
+  attempt to derive the source code of this software.
+- You may not distribute, sublicense, or sell copies of this software to any
+  third party.
+- You may not use this software for any purpose other than connecting to
+  the eZintegrations SaaS platform.
+
+This software is provided “AS IS”, without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability or fitness
+for a particular purpose. Bizdata Inc. shall not be liable for any damages
+arising from the use of this software.
+
+By downloading or using this software, you agree to these terms.
