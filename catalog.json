@@ -1,0 +1,113 @@
+{
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "ai-document-understanding",
+      "name": "AI Document Understanding",
+      "description": "Integrations leveraging AI for document processing, classification, and extraction from unstructured data sources like SharePoint or ZIP files.",
+      "tags": ["AI", "Document AI", "Automation"]
+    },
+    {
+      "id": "aws-s3",
+      "name": "AWS S3",
+      "description": "Integrations to extract, audit, and analyze AWS S3 storage and permissions data into databases for compliance and monitoring.",
+      "tags": ["Cloud", "Storage", "Audit"]
+    },
+    {
+      "id": "acumatica",
+      "name": "Acumatica",
+      "description": "ERP-based integrations connecting Acumatica with external tools like Google Sheets for inventory and data sync.",
+      "tags": ["ERP", "Finance", "Inventory"]
+    },
+    {
+     "id": "amazon-seller-central",
+      "name": "Amazon Seller Central and ERP",
+      "description": "Bridges connecting Amazon Seller Central with ERP or databases for order, settlement, and logistics automation.",
+      "tags": ["eCommerce", "ERP", "Finance"]
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "description": "Integrations handling Azure storage logs, PII scanning, and compliance automation with centralized reporting.",
+      "tags": ["Cloud", "Security", "Compliance"]
+    },
+    {
+      "id": "ehr-integration",
+      "name": "EHR Integration",
+      "description": "Healthcare-focused integrations for exchanging patient and clinical data using FHIR standards between EHR and ERP systems.",
+      "tags": ["Healthcare", "FHIR", "Data Exchange"]
+    },
+    {
+      "id": "india-gst-tax",
+      "name": "India GST Compliance/Tax Automation",
+      "description": "Bridges for automated e-invoicing, IRN generation, and e-waybill compliance with ERP and government systems.",
+      "tags": ["Finance", "Compliance", "Government"]
+    },
+    {
+      "id": "lead-enrichment",
+      "name": "Lead Enrichment",
+      "description": "AI-driven integrations for enriching lead and company data from sources like Google, LinkedIn, and Apify.",
+      "tags": ["AI", "Sales", "Marketing"]
+    },
+    {
+      "id": "lead-management",
+      "name": "Lead Management",
+      "description": "Integrations for automating job signal detection, ICP scoring, and personalized outreach using AI.",
+      "tags": ["Marketing", "AI", "Sales"]
+    },
+    {
+      "id": "netsuite",
+      "name": "NetSuite",
+      "description": "ERP data integrations between Oracle NetSuite and databases for analytics, finance, and operations.",
+      "tags": ["ERP", "Finance", "Analytics"]
+    },
+    {
+      "id": "oracle-planning-cloud",
+      "name": "Oracle Planning Cloud",
+      "description": "Integrations for synchronizing planning, budgeting, and manufacturing data from Oracle Planning Cloud into databases.",
+      "tags": ["Finance", "ERP", "Manufacturing"]
+    },
+    {
+      "id": "oracle-time-and-labor",
+      "name": "Oracle Time and Labor with Biometric",
+      "description": "Bridges to automate workforce time tracking and payroll by syncing biometric device data with Oracle HCM OTL.",
+      "tags": ["HR", "Payroll", "Automation"]
+    },
+    {
+      "id": "oracle-fusion",
+      "name": "Oracle Fusion",
+      "description": "Integrations connecting Oracle Fusion with eCommerce systems like Shopify for real-time catalog and order updates.",
+      "tags": ["ERP", "eCommerce"]
+    },
+    {
+      "id": "sftp",
+      "name": "SFTP",
+      "description": "Integrations transferring files and transactional data securely from SFTP sources to databases and CRMs.",
+      "tags": ["Finance", "Data Transfer"]
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "description": "Bridges for syncing data between Shopify and ERP systems like NetSuite, Acumatica, and Oracle Fusion.",
+      "tags": ["eCommerce", "ERP", "Retail"]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "description": "Integrations to synchronize orders, inventory, and product data between Walmart Marketplace and ERP systems.",
+      "tags": ["eCommerce", "ERP", "Retail"]
+    },
+    {
+      "id": "weaviate",
+      "name": "Weaviate",
+      "description": "AI-based workflow integrations using vector databases and semantic search for intelligent automation.",
+      "tags": ["AI", "Vector Database", "Automation"]
+    },
+    {
+      "id": "testing-ai-workflow",
+      "name": "Testing AI Workflow",
+      "description": "Sample and demo integrations demonstrating AI workflow capabilities, APIs, and authentication methods.",
+      "tags": ["AI", "Testing", "Demo"]
+    }
+  ]
+}
