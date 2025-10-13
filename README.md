@@ -82,6 +82,10 @@ The Integration Bridge (.ez file) is proprietary software.
 You may download and use it only for connecting to the Bizdata eZintegrations platform.
 See [LICENSE.txt](./LICENSE.txt) for details.
 
+### Tag Index
+Integration categories and tags are maintained in [catalog.json](./catalog.json).
+
+
 
 ### Category
 
