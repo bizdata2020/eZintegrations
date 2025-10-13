@@ -77,6 +77,10 @@ Have a question? Ask in our Community Forum
 
 <sub><em>Tip: Hold <kbd>Ctrl</kbd> (Windows/Linux) or <kbd>Cmd</kbd> (Mac) and click to open in a new tab.</em></sub>
 
+### License
+The Integration Bridge (.ez file) is proprietary software.
+You may download and use it only for connecting to the Bizdata eZintegrations platform.
+See [LICENSE.txt](./LICENSE.txt) for details.
 
 
 ### Category
